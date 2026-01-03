@@ -1,5 +1,7 @@
 # Noise Generator Plugin
 
+[README - TÜRKÇE - TURKISH <<<--](https://github.com/cenairaclub/NoiseGeneratorForBetterCraft/blob/main/README_Turkish.md)
+
 **Noise Generator** is a fast and flexible noise generation plugin for Unreal Engine, suitable for procedural content generation, terrain shaping, and various effects.
 
 This plugin provides the `UNoiseWrapper` class, allowing you to easily use popular noise algorithms (Perlin, Simplex, Cellular, etc.) via both Blueprint and C++.
