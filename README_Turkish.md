@@ -96,4 +96,5 @@ void AMyActor::StartNoiseGeneration()
 
 ## Lisans
 
-Bu eklenti açık kaynaklıdır ve MIT lisansı altında dağıtılmaktadır. (Burayı projenizin lisansına göre düzenleyebilirsiniz)
+Bu eklenti açık kaynaklıdır ve MIT lisansı altında dağıtılmaktadır.
+
