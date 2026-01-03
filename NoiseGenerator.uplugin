@@ -1,0 +1,34 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "Noise Generator",
+	"Description": "Noise Generator functions",
+	"Category": "Other",
+	"CreatedBy": "UmutFaruk",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "com.epicgames.launcher://ue/Fab/product/ba312654-eeb7-4e7e-9c8d-e61effec4762",
+	"SupportURL": "",
+	"EngineVersion": "5.7.0",
+	"CanContainContent": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "Noisy",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"PlatformDenyList": [
+				"IOS"
+			]
+		},
+		{
+			"Name": "NoiseGenerator",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"PlatformDenyList": [
+				"IOS"
+			]
+		}
+	]
+}
