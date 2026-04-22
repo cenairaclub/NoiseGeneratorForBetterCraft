@@ -48,7 +48,7 @@ In Loop -> `Sample Noise 2D (X, Y)` -> Use the result (e.g., as Z height).
 Add the `NoiseGenerator` and `Noisy` modules to your project's `Build.cs` file:
 
 ```csharp
-PublicDependencyModuleNames.AddRange(new string[] { "Core", "CoreUObject", "Engine", "InputCore", "NoiseGenerator" });
+PublicDependencyModuleNames.AddRange(new string[] { "Core", "CoreUObject", "Engine", "InputCore", "NoiseGenerator" , "Noisy" });
 ```
 
 Include the header in the class you wish to use it:
