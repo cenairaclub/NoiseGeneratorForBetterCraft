@@ -46,7 +46,7 @@ Döngü içinde -> `Sample Noise 2D (X, Y)` -> Elde edilen değeri kullan (örn.
 Projenizin `Build.cs` dosyasına `NoiseGenerator` ve `Noisy` modülünü ekleyin:
 
 ```csharp
-PublicDependencyModuleNames.AddRange(new string[] { "Core", "CoreUObject", "Engine", "InputCore", "NoiseGenerator" });
+PublicDependencyModuleNames.AddRange(new string[] { "Core", "CoreUObject", "Engine", "InputCore", "NoiseGenerator" , "Noisy"});
 ```
 
 Kullanmak istediğiniz sınıfta header'ı ekleyin:
