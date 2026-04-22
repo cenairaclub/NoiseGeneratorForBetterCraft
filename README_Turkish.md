@@ -43,7 +43,7 @@ Döngü içinde -> `Sample Noise 2D (X, Y)` -> Elde edilen değeri kullan (örn.
 
 ### C++ ile Kullanım
 
-Projenizin `Build.cs` dosyasına `NoiseGenerator` modülünü ekleyin:
+Projenizin `Build.cs` dosyasına `NoiseGenerator` ve `Noisy` modülünü ekleyin:
 
 ```csharp
 PublicDependencyModuleNames.AddRange(new string[] { "Core", "CoreUObject", "Engine", "InputCore", "NoiseGenerator" });
